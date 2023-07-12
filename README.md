@@ -1,1 +1,1 @@
-# Life_Skills
+# Life Skills
