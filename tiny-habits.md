@@ -5,12 +5,10 @@
 In his TEDx talk titled "Forget big change, start with a tiny habit," BJ Fogg introduces a powerful concept for making lasting changes in one's life. 
 Fogg emphasizes that rather than attempting grand transformations,
 success can be achieved by focusing on small, manageable habits. These takeaways can be extracted from his insightful presentation:
+
 **Tiny Habits Lead to Lasting Change**
-
 **Celebrating Small Wins**
-
 **Simplicity and Consistency**
-
 **Scaling Gradually:**
 
 ### 2.Tiny Habits by BJ Fogg - Core Message
@@ -127,6 +125,16 @@ Set up app limits or usage restrictions on your devices to limit your daily soci
 Use website blockers or time-tracking apps to discourage impulsive visits to social media platforms.
 
 
+## Reference:
+[Tiny Habits - BJ Fogg](https://www.youtube.com/watch?v=AdKUJxjn-R8)
+
+[Tiny Habits by BJ Fogg - Core Message](https://www.youtube.com/watch?v=S_8e-6ZHKLs)
+
+[1% Better Every Day Video](https://www.youtube.com/watch?v=mNeXuCYiE0U)
+
+[1% Better Every Day](https://www.linkedin.com/pulse/1-better-every-day-kaizen-way-excellence-jason-forrest-mba/)
+
+[ James Clear-Atomic Habits Summary](https://jamesclear.com/atomic-habits-summary)
 
 
 
